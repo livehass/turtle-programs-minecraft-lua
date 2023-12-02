@@ -1,4 +1,4 @@
- 1. --[[Turtle program to chopp tree using computercraft inside minecraft.]]
+ 1. --[[um programa que corta arvores dentro do minecraft usando lua.]]
  3.
  4. if not turtle.detect() then
  5.   error('Não encontrei um árvore!')
