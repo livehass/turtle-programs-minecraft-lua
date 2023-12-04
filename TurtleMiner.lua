@@ -208,7 +208,7 @@
 		
 		if side == 2 then
 			turtle.turnLeft()
-			turtle.turnLeft()
+			turtle.turnLeft()1
 			turtle.dig()
 			turtle.turnRight()
 			turtle.turnRight()
